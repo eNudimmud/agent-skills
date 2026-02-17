@@ -1,0 +1,28 @@
+# Secrets
+config.json
+.env
+.env.*
+*.local.md
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/settings.local.json
+
+# Node
+node_modules/
+
+# Temp
+*.tmp
+*.bak
