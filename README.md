@@ -9,6 +9,7 @@ A public skill library for AI agents. Skills provide self-contained instructions
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [blowfish-launch-token](./blowfish-launch-token/) | Launch Solana tokens via the Blowfish Agent API | Active |
+| [character-image-studio](./character-image-studio/) | Manage character visual identities and generate consistent images via the NeukoAI Image Studio API | Active |
 
 ## Quick Start
 
